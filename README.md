@@ -1,5 +1,5 @@
-# Attaques-Adversariales-sur-Mod-les-ML-AI
-Description GitHub & Référence Kaggle
+# Description GitHub & Référence Kaggle
+
 Ce notebook présente une étude des attaques adversariales sur les modèles d'apprentissage automatique, en se concentrant sur les réseaux de neurones convolutionnels (CNN) appliqués à la classification d'images MNIST.
 
 Objectifs :
